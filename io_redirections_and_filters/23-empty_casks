@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | find -type f,d -empty ".*"
+ls | find -type f,d -empty ".*"
